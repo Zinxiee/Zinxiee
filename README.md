@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm Zach 👋
+
+I'm a student at Loughborough University currently doing a degree in Robotics, Mechatronics, and Control Engineering.
+I'm interested in making the world a better place through programming and responsible AI.
+
+If you wish to reach me, you can contact me at z.danzig-22@student.lboro.ac.uk
+
+Always learning, 
+Always curious.
+
 
 <!--
 **Zinxiee/Zinxiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
